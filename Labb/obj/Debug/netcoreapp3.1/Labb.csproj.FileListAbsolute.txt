@@ -1,0 +1,13 @@
+/Users/romandivkovic/Projects/Labb/bin/Debug/netcoreapp3.1/Labb.deps.json
+/Users/romandivkovic/Projects/Labb/bin/Debug/netcoreapp3.1/Labb.runtimeconfig.json
+/Users/romandivkovic/Projects/Labb/bin/Debug/netcoreapp3.1/Labb.runtimeconfig.dev.json
+/Users/romandivkovic/Projects/Labb/bin/Debug/netcoreapp3.1/Labb.dll
+/Users/romandivkovic/Projects/Labb/bin/Debug/netcoreapp3.1/Labb.pdb
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.csproj.AssemblyReference.cache
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.AssemblyInfoInputs.cache
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.AssemblyInfo.cs
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.csproj.CoreCompileInputs.cache
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.dll
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.pdb
+/Users/romandivkovic/Projects/Labb/obj/Debug/netcoreapp3.1/Labb.genruntimeconfig.cache
